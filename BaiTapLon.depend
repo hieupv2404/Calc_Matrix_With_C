@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1546967441 source:e:\code\project c++\baitaplon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mylibrary.h"
+
+1547203455 e:\code\project c++\baitaplon\mylibrary.h
+
